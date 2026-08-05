@@ -1,0 +1,8 @@
+# Güvenlik ve Geçici Dosyalar
+.env
+*.db
+__pycache__/
+*.pyc
+venv/
+.vscode/
+.idea/
